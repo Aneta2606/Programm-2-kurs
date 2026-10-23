@@ -1,0 +1,29 @@
+# Байт-код / кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы, создаваемые при сборке / упаковке
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Настройки редакторов (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Системный мусор (Windows, macOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи и временные файлы
+*.log
+*.tmp
